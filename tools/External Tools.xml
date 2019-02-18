@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="run-android" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\evevision\AppData\Roaming\npm\react-native.cmd" />
+      <option name="PARAMETERS" value="run-android " />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

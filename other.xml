@@ -1,0 +1,55 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/nodejs/node.exe">
+      <version-cache version="10.14.2" last-modified="1544449720000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.55497384" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6198347" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="vue" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="18" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="KEYMAP" value="compl&#10;comple&#10;move c" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesFlow JS" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SettingsSearchHistory" value="plugin&#10;proxy&#10;plug&#10;save&#10;indent" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.6923077" />
+    <property name="TrendingPluginsSearchHistory" value="config&#10;vue" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.181" value="16" />
+    <property name="evlsprt3.182" value="12" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.chooser.recent.files" value="D:/git/ims_web&#10;D:/git/ims_web/src/eyesws-ui/index.js&#10;D:/git/ims_web/src/eyesws-ui&#10;D:/git/ims_web/node_modules/vue/dist/vue.js&#10;D:/git/ims_web/build/webpack.base.conf.js&#10;D:/git/ims_web/build/webpack.dev.conf.js&#10;D:/git/screening_client&#10;D:/git/ruiwa_android2&#10;D:/git/ruiwa_app&#10;D:/git/ruiwa_android&#10;C:/Users/evevision/Desktop/MeiTuan-master&#10;C:/Users/evevision/Desktop/extremely-simple-flux-demo-master&#10;C:/Users/evevision/Desktop/react-demos-master&#10;D:/git/AwesomeProject&#10;C:/Users/evevision/AppData/Roaming/npm/react-native.cmd&#10;C:/Users/evevision/AppData/Roaming/npm/react-native&#10;D:/git&#10;E:/my-project&#10;C:/Users/evevision/AppData/Roaming/npm/node_modules/@vue/cli-init&#10;C:/Users/evevision/Application Data&#10;C:/Users/evevision/AppData/Roaming/npm-cache/_logs/2018-07-05T06_55_56_299Z-debug.log&#10;E:/hello-world&#10;E:/try_project&#10;E:/" />
+    <property name="file.gist.reindex.count" value="209036" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="js.chrome.debugger.port" value="29984" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="28615" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.var.names.completion" value="false" />
+    <property name="selected.color.option.type" value="INDENT_GUIDE" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Imports" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.50233644" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.4869656" />
+  </component>
+</application>
