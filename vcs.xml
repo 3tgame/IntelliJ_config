@@ -6,6 +6,10 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="eyevision@eyesws.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.tencent.com" />
+          <option name="userName" value="tguonian@126.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
